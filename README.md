@@ -1,6 +1,8 @@
 TITULO
 =======
 
+![IMAGEM_GIT](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1200px-Git-logo.svg.png)
+
 SUBTITULO
 ---------
 
@@ -9,15 +11,16 @@ SUBTITULO
   - Sub Lista 2
   - Sub Lista 3
 * [X] MARCADO
-* [] Nao marcado
+* [ ] Nao marcado
 
 
-**NEGRITO** _SUBLINHADO_ --RISCADO--
+**NEGRITO** _ITALICO_ --RISCADO--
 
 
 ####TABELA
+
 PRODUTO|DESCRICAO
--------|---------
+-------|-------
 Prod1  | Prod1
 Prod2  | Prod2
 
