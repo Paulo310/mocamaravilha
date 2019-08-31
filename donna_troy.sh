@@ -8,6 +8,7 @@ for COWSAY in $(ls /usr/share/cowsay/cows)
 do
 	sleep 1;
 	cowsay -f $COWSAY LINUX
+	clear
 done
 
 figlet LINUXLOG
